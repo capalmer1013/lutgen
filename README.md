@@ -1,0 +1,2 @@
+# lutgen
+generate luts
