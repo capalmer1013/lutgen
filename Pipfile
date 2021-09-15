@@ -10,6 +10,7 @@ openlut = "*"
 pycubelut = "*"
 pylut = "*"
 django = "*"
+django-environ = "*"
 
 [requires]
 python_version = "3.7"
