@@ -15,8 +15,6 @@ import os
 
 import environ
 env = environ.Env()
-
-
 base = environ.Path(__file__)
 environ.Env.read_env()
 
