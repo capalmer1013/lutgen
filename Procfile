@@ -1,1 +1,1 @@
-web: gunicorn lutgenerator.lutgenerator.wsgi
+web: gunicorn lutgenerator.wsgi
